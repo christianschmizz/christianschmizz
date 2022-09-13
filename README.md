@@ -1,29 +1,12 @@
 ## Hi there 👋
 
-**I am the guardian of innocent software-projects and protect them from unfortunate code and short-sighted decisions.**
+**I am Christian Schmizz ℤ, guardian of innocent software-projects. My mission is to protect us, you and me from unfortunate code and short-sighted decisions.**
 
-### Magic sauce
-
-My "magic" sauce is honesty and a consistent and uncompromising adherence to principles and values – the railings of every safe environment. 
-
-#### Ingredients
-
-- 🧑‍🏫 Focussing on forward-thinking solutions by learning the lessons and letting them go.
+- 🗿 Creating distributed systems by running *SOLID* software with the power of event sorcery.
 - 🫥 I am a strong advocate of 🩳 "Less is more", 🧠 "Don't make me think" and 🧟 "Keep it simple, stupid". 
 - 🫙 I strictly believe that the best code, is code never written.
-- 🌱 My mission is helping people grow and succeed. Successful people are the key to great teams and collaboration and therefor to organisational effectiveness. It's always the people. 
-
-<!--
-**christianschmizz/christianschmizz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🧑‍🏫 Focussing on forward-thinking solutions by learning the lessons and letting them go.
+- ʕ◔ϖ◔ʔ Avid Gopher. 🐍 Avid Pythonista and 🦄 Djangonaut.
+- 🌱 Love helping people grow and succeed.  It's always the people. 
+- Did PHP, Java ☕️ – a while ago
+- JavaScript since the early days of jQuery, Backbone.js and Node.js
